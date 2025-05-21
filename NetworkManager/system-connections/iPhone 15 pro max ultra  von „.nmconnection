@@ -1,0 +1,23 @@
+[connection]
+id=iPhone 15 pro max ultra  von „
+uuid=1937321f-fd98-424d-9415-3077741c99b7
+type=wifi
+interface-name=wlan0
+
+[wifi]
+mode=infrastructure
+ssid=105;80;104;111;110;101;32;49;53;32;112;114;111;32;109;97;120;32;117;108;116;114;97;32;32;118;111;110;32;226;128;158;
+
+[wifi-security]
+auth-alg=open
+key-mgmt=wpa-psk
+psk=DasCooleP
+
+[ipv4]
+method=auto
+
+[ipv6]
+addr-gen-mode=default
+method=auto
+
+[proxy]

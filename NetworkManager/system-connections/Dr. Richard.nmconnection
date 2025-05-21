@@ -1,0 +1,18 @@
+[connection]
+id=Dr. Richard
+uuid=f9a78f40-3d24-4318-95d3-612202c364a6
+type=wifi
+interface-name=wlan0
+
+[wifi]
+mode=infrastructure
+ssid=Dr. Richard
+
+[ipv4]
+method=auto
+
+[ipv6]
+addr-gen-mode=default
+method=auto
+
+[proxy]
