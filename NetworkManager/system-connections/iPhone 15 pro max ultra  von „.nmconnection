@@ -3,6 +3,7 @@ id=iPhone 15 pro max ultra  von „
 uuid=1937321f-fd98-424d-9415-3077741c99b7
 type=wifi
 interface-name=wlan0
+timestamp=1747423876
 
 [wifi]
 mode=infrastructure
