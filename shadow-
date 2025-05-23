@@ -20,3 +20,4 @@ avahi:!*:20209::::::
 most-normal-arch-user:$y$j9T$xLh8RKpi3RS1XaLhkkYFh.$iJGxdUL5h0c6BMe86YbznuirJvaA//xdlWTPHCDMzh9:20209:0:99999:7:::
 rtkit:!*:20209::::::
 sddm:!*:20209::::::
+git:!*:20210::::::

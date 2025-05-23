@@ -27,7 +27,7 @@ render:!*::
 sgx:!*::
 storage:!*::
 tty:!*::
-uucp:!*::
+uucp:!*::most-normal-arch-user
 video:!*::
 users:!*::
 groups:!*::
