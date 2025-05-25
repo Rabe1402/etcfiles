@@ -17,7 +17,7 @@ adm:x:999:daemon
 wheel:x:998:most-normal-arch-user
 utmp:x:997:
 audio:x:996:
-disk:x:995:
+disk:x:995:most-normal-arch-user
 input:x:994:
 kmem:x:993:
 kvm:x:992:

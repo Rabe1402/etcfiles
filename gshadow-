@@ -53,3 +53,4 @@ rtkit:!*::
 seat:!*::
 sddm:!*::
 git:!*::
+incron:!*::
