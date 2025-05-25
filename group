@@ -52,5 +52,5 @@ most-normal-arch-user:x:1000:
 rtkit:x:133:
 seat:x:970:
 sddm:x:969:
-git:x:968:
+git:x:968:most-normal-arch-user
 incron:x:967:
