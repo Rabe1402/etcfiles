@@ -140,3 +140,4 @@ root ALL=(ALL:ALL) ALL
 
 #qoutes
 most-normal-arch-user ALL=(ALL) NOPASSWD: /bin/cat /home/most-normal-arch-user/.quotes.txt
+most-normal-arch-user ALL=(ALL) NOPASSWD: /bin/cat /home/most-normal-atch-user/fastfetch_quotes.txt
