@@ -1074,6 +1074,7 @@ maybe chmod 0644 'systemd/system/var-lib-snapd-snap-gtk\x2dcommon\x2dthemes-1535
 maybe chmod 0644 'systemd/system/var-lib-snapd-snap-hello\x2dworld-29.mount'
 maybe chmod 0644 'systemd/system/var-lib-snapd-snap-snap\x2dstore-1270.mount'
 maybe chmod 0644 'systemd/system/var-lib-snapd-snap-snapd-24505.mount'
+maybe chmod 0644 'systemd/system/vncserver@:1.service'
 maybe chmod 0644 'systemd/timesyncd.conf'
 maybe chmod 0755 'systemd/user'
 maybe chmod 0644 'systemd/user.conf'
