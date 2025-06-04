@@ -54,3 +54,4 @@ seat:!*::
 sddm:!*::
 git:!*::
 incron:!*::
+dhcp:!*::
