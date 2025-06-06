@@ -55,3 +55,4 @@ sddm:!*::
 git:!*::
 incron:!*::
 dhcp:!*::
+vboxusers:!*::
