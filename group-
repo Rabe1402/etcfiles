@@ -56,3 +56,4 @@ git:x:968:most-normal-arch-user
 incron:x:967:
 dhcp:x:966:
 vboxusers:x:108:
+nx:x:965:
