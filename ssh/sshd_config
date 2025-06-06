@@ -117,3 +117,13 @@ Subsystem	sftp	/usr/lib/ssh/sftp-server
 #	AllowTcpForwarding no
 #	PermitTTY no
 #	ForceCommand cvs server
+RSAAuthentication yes
+PubkeyAuthentication yes
+PasswordAuthentication yes
+PermitEmptyPasswords yes
+AuthorizedKeysFile /usr/NX/home/nx/.ssh/authorized_keys /usr/NX/home/nx/.ssh/authorized_keys2
+#
+#
+#
+Match Address 127.0.0.1
+  PasswordAuthentication yes
