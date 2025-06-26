@@ -4,13 +4,12 @@ uuid=d1d7192b-d884-396d-83b4-b8614839304c
 type=ethernet
 autoconnect-priority=-999
 interface-name=enp4s0
-timestamp=1746715488
+timestamp=1750917572
 
 [ethernet]
 
 [ipv4]
-address1=80.0.8.6/32
-method=manual
+method=auto
 
 [ipv6]
 addr-gen-mode=default

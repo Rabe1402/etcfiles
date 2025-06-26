@@ -57,3 +57,5 @@ incron:x:967:
 dhcp:x:966:
 vboxusers:x:108:
 nx:x:965:
+rpc:x:32:
+rpcuser:x:34:

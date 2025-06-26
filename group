@@ -59,3 +59,4 @@ vboxusers:x:108:
 nx:x:965:
 rpc:x:32:
 rpcuser:x:34:
+jamulus:x:964:
