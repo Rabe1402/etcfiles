@@ -1,0 +1,18 @@
+[connection]
+id=WiFi Camping Resort
+uuid=2135bed8-8304-4737-837a-bd4e9e340da3
+type=wifi
+interface-name=wlan0
+
+[wifi]
+mode=infrastructure
+ssid=WiFi Camping Resort
+
+[ipv4]
+method=auto
+
+[ipv6]
+addr-gen-mode=default
+method=auto
+
+[proxy]

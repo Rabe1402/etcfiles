@@ -101,6 +101,7 @@ maybe chmod 0600 'NetworkManager/system-connections/KeplerWLANLEHRER.nmconnectio
 maybe chmod 0600 'NetworkManager/system-connections/KeplerWLANLEHRER_EXT.nmconnection'
 maybe chmod 0600 'NetworkManager/system-connections/Orangenbohrer.nmconnection'
 maybe chmod 0600 'NetworkManager/system-connections/Technik-wifi.nmconnection'
+maybe chmod 0600 'NetworkManager/system-connections/WiFi Camping Resort.nmconnection'
 maybe chmod 0600 'NetworkManager/system-connections/Wired connection 1.nmconnection'
 maybe chmod 0600 'NetworkManager/system-connections/_.nmconnection'
 maybe chmod 0600 'NetworkManager/system-connections/iPhone 15 pro max ultra  von „.nmconnection'
